@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/rebutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/resetbt"
@@ -70,7 +70,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline3" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/rb1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -86,7 +86,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline4" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/bb1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -102,7 +102,7 @@
         tools:textColor="@android:color/holo_blue_dark" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/rb2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -118,7 +118,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline5" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/bb2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -134,7 +134,7 @@
         tools:textColor="@android:color/holo_blue_dark" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/rb3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -150,7 +150,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline6" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/bb3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -166,7 +166,7 @@
         tools:textColor="@android:color/holo_blue_dark" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/undpbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/undo"
