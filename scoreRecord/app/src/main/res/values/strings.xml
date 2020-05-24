@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">scoreRecord</string>
+    <string name="redTeam">红队</string>
+    <string name="blueTeam">蓝队</string>
+    <string name="redScore">0</string>
+    <string name="blueScore">0</string>
+    <string name="redbt1">+1</string>
+    <string name="bluebt1">+1</string>
+    <string name="redbt3">+3</string>
+    <string name="redbt2">+2</string>
+    <string name="undo">撤销</string>
+    <string name="bluebt2">+2</string>
+    <string name="bluebt3">+3</string>
+    <string name="resetbt">重置</string>
+</resources>
